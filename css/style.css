@@ -127,6 +127,7 @@ button[type="reset"]{
     position:relative;
     font-size: 30px;
     background-color: black;
+    list-style: none;
  }
 
 .boxModelBL {
